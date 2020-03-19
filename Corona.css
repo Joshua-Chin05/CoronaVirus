@@ -26,27 +26,54 @@ p {
 
 .Header {
     width:100%;
-    top:570px;
+    top:650px;
     position:absolute;
 }
 .List {
     
     width:100%;
-    top: 650px;
+    top: 700px;
     position:absolute;
     font-size: 16px;
 }
 
 .Header2 {
     width:100%;
-    top:350px;
+    top:850px;
     position:absolute;
 }
 
 .List2 {
     
     width:100%;
-    top: 390px;
+    top: 890px;
     position:absolute;
     font-size: 18px;
+}
+body2 {
+    margin: 0;
+    background: white;
+    top: 300px;
+    width: 100%;
+    font-size: 17px;
+}
+p { 
+    font-family: Roboto; 
+    font-size: 20px; 
+    margin: 0px;
+   }
+.bodyWrapper2 {
+    width:100%;
+    top: 350px;
+    height: fit-content;
+    position: relative;
+    display: flex;
+    top: 70px;
+}
+
+.bodyObject2 {
+    width: 50%;
+    height: 400px;
+    position: relative;
+
 }
