@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background: white;
+    width: 100%;
+    font-size: 17px;
+}
+p { 
+    font-family: Roboto; 
+    font-size: 20px; 
+    margin: 0px;
+   }
+.bodyWrapper {
+    width:100%;
+    height: fit-content;
+    position: relative;
+    display: flex;
+    top: 70px;
+}
+
+.bodyObject {
+    width: 50%;
+    height: 300px;
+    position: relative;
+
+}
+
+.Header {
+    width:100%;
+    top:570px;
+    position:absolute;
+}
+.List {
+    
+    width:100%;
+    top: 650px;
+    position:absolute;
+    font-size: 16px;
+}
+
+.Header2 {
+    width:100%;
+    top:350px;
+    position:absolute;
+}
+
+.List2 {
+    
+    width:100%;
+    top: 390px;
+    position:absolute;
+    font-size: 18px;
+}
